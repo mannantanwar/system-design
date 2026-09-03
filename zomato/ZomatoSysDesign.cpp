@@ -54,4 +54,7 @@ this is all for now , lets jump int ocodig and we will figure out on the way
 
 
 */
+class Restraunt{
+
+};
 
